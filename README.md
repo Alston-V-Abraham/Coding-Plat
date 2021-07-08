@@ -9,12 +9,12 @@ Ever wanted to code but you want to save on that space used for installing Progr
 ## Table of Contents
 1) [Goal and Vision](https://github.com/G77LAIP-wx/Coding-Plat/blob/main/README.md#our-goal-and-vision)
 2) [Our Sponsors](https://github.com/G77LAIP-wx/Coding-Plat/blob/main/README.md#our-sponsors)
-3) [Our Collaborators]()
-4) [Requirements for this Platform]()
-5) [Features]()
-6) [Working Updates]()
-7) [Membership Plans]()
-8) [Redirect EVENTS]()
+3) [Our Collaborators](https://github.com/G77LAIP-wx/Coding-Plat/blob/main/README.md#our-collaborators)
+4) [Requirements for this Platform](https://github.com/G77LAIP-wx/Coding-Plat/blob/main/README.md#requirements-for-this-platform)
+5) [Features](https://github.com/G77LAIP-wx/Coding-Plat/blob/main/README.md#feature)
+6) [Working Updates](https://github.com/G77LAIP-wx/Coding-Plat/blob/main/README.md#working-updates)
+7) [Membership Plans](https://github.com/G77LAIP-wx/Coding-Plat/blob/main/README.md#membership-plans)
+8) [Redirect EVENTS](https://github.com/G77LAIP-wx/Coding-Plat/blob/main/README.md#redirect-events)
 
 ## Our Goal and Vision
 Our ultimate goal and vision is to make available web text editors for all people with constraints due to which they are not able to unleash the CODING BEAST within them!
