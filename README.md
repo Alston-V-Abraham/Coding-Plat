@@ -8,7 +8,7 @@ Ever wanted to code but you want to save on that space used for installing Progr
 
 ## Table of Contents
 1) [Goal and Vision](https://github.com/G77LAIP-wx/Coding-Plat/blob/main/README.md#our-goal-and-vision)
-2) [Our Sponsors]()
+2) [Our Sponsors](https://github.com/G77LAIP-wx/Coding-Plat/blob/main/README.md#our-sponsors)
 3) [Our Collaborators]()
 4) [Requirements for this Platform]()
 5) [Features]()
